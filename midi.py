@@ -3,6 +3,7 @@
 
 """ 
 midi.py -- MIDI classes and parser in Python 
+Convered Python 2 code to Python 3 code in December 2012 by Akio Nishimura
 Placed into the public domain in December 2001 by Will Ware 
 Python MIDI classes: meaningful data structures that represent MIDI 
 events 
